@@ -5,7 +5,7 @@
 The most worthless robot, and we love it.
 It will randomly drive around until it spots a target, it will reverse and go full charge into the target.
 
-This project was made by me and my good friend RobDra in our robotics class.
+This project was made by me and my good friend C-HGP https://github.com/C-HGP in our robotics class.
 It turned out as a really fun robot where instead of avoiding objects, it finds and attacks them. 
 
 # Components # 
